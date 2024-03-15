@@ -55,7 +55,6 @@ const WeatherApp = () => {
           );
         }
         const responseBody = await response.json();
-        console.log(responseBody);
         if(responseBody.cod === '404'){
             setError("City not found")
         }
