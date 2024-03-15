@@ -24,6 +24,14 @@ This is a weather app that allows users to fetch the current weather conditions 
 - Alternatively, users can use the search bar to look up weather information for a specific city by typing its name and pressing Enter.
 - Temperature units can be toggled between Celsius and Fahrenheit using the provided toggle switch.
 
+## Screenshot
+
+<img src="https://github.com/MadalenaBastakou/weather-app/blob/main/public/weather-app-vite.png"/>
+
+## Live
+
+You can see a live demo of the web app [here](https://weather-app-react-vite143.netlify.app/)
+
 ## Acknowledgements
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
